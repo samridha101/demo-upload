@@ -1,23 +1,28 @@
-# demo-upload
-demo for students to upload code on github
-#Shapei web dev bootcamp
+# SHAPEAI PYTHON AND COMPUTER VISION BOOTCAMP
+Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+</b>.
+The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
+learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
+<br><br>Here's the link for you to watch the sessions as well<br>
+<a href="https://www.youtube.com/playlist?list=PL7zl8TDRnbulHqBNcsk_zeuy1RTKePPcg"> <img src="https://github.com/ShapeAI/PYTHON-AND-DATA-ANALYTICS/blob/main/YOUTUBE%20THUMBNAIL-2.png"> </a>
+<br>I got to have hands on experience on:
+<li>Python
+<li>Neural Networks
+<li>CNNs
+<br>during these 7 days, and everything was explained from the very basics so that
+anyone with zero experience on programming can learn.
+I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:
+www.shapeai.tech
+or follow SHAPEAI on:
+<li><a href=
+"https://in.linkedin.com/company/shapeai">LinkedIn</a>
+<li><a href=
+"https://www.instagram.com/shape.ai/?hl=en">Instagram</a>
+<li><a
+href=
+"https://www.youtube.com/channel/UCTUvDLTW9meuDXWcbmISPdA">YouTu
+be</a>
+<li><a href=
+"https://github.com/shapeai">GitHub</a>
 
-1) Data analyst training and Internship program
 
-2) Full-Stack training and Internship program
-
-One More New Batch Starting from 1st June for DATA ANALYST Training and Internship  Program and for Fullstack Development Training  program, 
-Limited seats Available First Come first Basis.
-
-Your Instructor will be 
-Rahul Halalka Summer Analyst at Goldman Sachs.
-Madhav Jauhari Software Engineer at American Express
-Nandini Jalan STEP’20 Intern at Google
-Shaurya Sinha Data Analyst at JIO
-
-In these 2.5 months:
--  get trained on the tech stack you need to crack your dream job. Just like our previous graduates at companies like Microsoft, Walmart, Goldman Sachs. ahref(https://www.shapeai.tech/graduates)		
- Moreover, it's not just training, after completion of the training you will get an internship certification Letter of recommendation as a Internship completion certificate. 
-This batch we will be giving you special access to Complementary pre-recorded courses in Machine Learning engineer as well as Data Analyst and full stack web development at no extra cost
-
-So you have skills as well as experience under your bag as well.
